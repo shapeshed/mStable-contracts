@@ -23,3 +23,4 @@ jobs:
       - run: yarn lint-sol
       - run: yarn test-prep
       - run: yarn lint-ts
+      - run: yarn test
