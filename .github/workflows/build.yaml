@@ -24,3 +24,5 @@ jobs:
       - run: yarn test-prep
       - run: yarn lint-ts
       - run: yarn test
+      - run: yarn coverage
+
